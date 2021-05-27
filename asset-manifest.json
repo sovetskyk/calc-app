@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calc-appp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/calc-appp/static/js/main.194d2d98.chunk.js",
+    "main.js.map": "/calc-appp/static/js/main.194d2d98.chunk.js.map",
+    "runtime-main.js": "/calc-appp/static/js/runtime-main.b82f18c9.js",
+    "runtime-main.js.map": "/calc-appp/static/js/runtime-main.b82f18c9.js.map",
+    "static/js/2.0700e025.chunk.js": "/calc-appp/static/js/2.0700e025.chunk.js",
+    "static/js/2.0700e025.chunk.js.map": "/calc-appp/static/js/2.0700e025.chunk.js.map",
+    "static/js/3.4e64a7d3.chunk.js": "/calc-appp/static/js/3.4e64a7d3.chunk.js",
+    "static/js/3.4e64a7d3.chunk.js.map": "/calc-appp/static/js/3.4e64a7d3.chunk.js.map",
+    "index.html": "/calc-appp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/calc-appp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0700e025.chunk.js.LICENSE.txt": "/calc-appp/static/js/2.0700e025.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/calc-appp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b82f18c9.js",
+    "static/js/2.0700e025.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.194d2d98.chunk.js"
+  ]
+}
